@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🌻
 
-<!--
-**Sora-anna/Sora-anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Anna Vitória Barbosa
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura]
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo através de:
+
+  annabarbosa@prof.educacao.sp.gov.br
+
+  @camaleanna
+
+
+  ![](https://nishiweb.com.br/animecomics/personagem/Liga%20da%20Justi%E7a/Mulher-Gavi%E3o)
